@@ -9,10 +9,29 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 15:24:38 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 15:34:24 +0200</lastBuildDate>
     
 	<atom:link href="https://Andrew235689.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image</title>
+      <link>https://Andrew235689.github.io/posts/image/</link>
+      <pubDate>Mon, 18 Dec 2023 15:34:24 +0200</pubDate>
+      
+      <guid>https://Andrew235689.github.io/posts/image/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Andrew235689.github.io/tate.png&#34;/&gt;
+          
+        
+        
+        
+          warning: in the working copy of &amp;lsquo;page/1/index.html&amp;rsquo;, LF will be replaced by CRLF the next time Git touches it warning: in the working copy of &amp;lsquo;posts/index.html&amp;rsquo;, LF will be replaced by CRLF the next time Git touches it warning: in the working copy of &amp;lsquo;posts/page/1/index.html&amp;rsquo;, LF will be replaced by CRLF the next time Git touches it warning: in the working copy of &amp;lsquo;posts/postas/index.html&amp;rsquo;, LF will be replaced by CRLF the next time Git touches it warning: in the working copy of &amp;lsquo;sitemap.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Postas</title>
